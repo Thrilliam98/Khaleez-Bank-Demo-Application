@@ -1,0 +1,19 @@
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez_Bank_Demo_Application.Check_the_Balance.resources
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez_Bank_Demo_Application.Create_a_New_Account.resources
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez_Bank_Demo_Application.Deposit_Money.resources
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez_Bank_Demo_Application.Main_Menu.resources
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez_Bank_Demo_Application.Modify_Details_of_an_Account.resources
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez_Bank_Demo_Application.Print_Reports_of_Transactions_Made.resources
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez_Bank_Demo_Application.Properties.Resources.resources
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez_Bank_Demo_Application.Withdraw_Money.resources
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez Bank Demo Application.csproj.GenerateResource.Cache
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez Bank Demo Application.csproj.CoreCompileInputs.cache
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\bin\Debug\Khaleez Bank Demo Application.exe.config
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\bin\Debug\Khaleez Bank Demo Application.exe
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\bin\Debug\Khaleez Bank Demo Application.pdb
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez Bank Demo Application.exe
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez Bank Demo Application.pdb
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez Bank Demo Application.csprojAssemblyReference.cache
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\William Forward Khaleez Bank Demo Application\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez Bank Demo Application.csprojAssemblyReference.cache
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\William Forward Khaleez Bank Demo Application\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez Bank Demo Application.exe
+E:\College Stuff\IT Level 3 Year 2\Unit 15 - Object Oriented Programming\William Forward Khaleez Bank Demo Application\Khaleez Bank Demo Application\Khaleez Bank Demo Application\obj\Debug\Khaleez Bank Demo Application.pdb
